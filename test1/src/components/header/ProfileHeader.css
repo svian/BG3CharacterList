@@ -1,0 +1,17 @@
+#profileImg {
+    width: 300px;
+    height: 300px;
+}
+
+#bioGroup {
+    display: flex;
+    column-gap: 20px;
+}
+
+#headerText {
+font-size: 30px;
+}
+
+#subheaderText span {
+margin-right: 50px;
+}

@@ -1,0 +1,20 @@
+.img {
+    height: 100px;
+    width: 100px;
+    margin: 15px;
+}
+
+.bio{
+    margin: 15px;
+}
+
+.page {
+    width: 1000px;
+    position: absolute;
+    left: 50%;
+    margin-left: -500px;
+}
+
+/* ion-img:hover {
+    -webkit-transform: scale(2,2);
+  } */
