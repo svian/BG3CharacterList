@@ -1,0 +1,81 @@
+{
+"details":
+    [
+        {
+            "name": "Aesya",
+            "background": "Born of a brief love affair between a druid wood elf and a human trader, Aesya was raised in the harmonious town of Mosstone. Her father, a dedicated druid, had little interested in Aesya and often left her in the care of others. Aesya has a love of music and often was found wherever singing and dancing was occuring. Aesya also developed skills as a hunter, and traded meat and furs to provide for herself. At the age of 23, Aesya left Mosstone for Esmeltaran, where she lived for over 2 decades.",
+            "romanced": "Shadowheart and Halsin",
+            "progress": "Completed",
+            "companions": 
+            [
+                {
+                    "name": "Daughter of Darkness",
+                    "summary": "Shadowheart decided to end her parents suffering by putting them to rest and entrusting their spirits to the care of Selune. Now they are at peace and she is free of Shar’s influence. Free of her past, she can choose her own path at last."
+                },
+                {
+                    "name": "The Githyanki Warrior",
+                    "summary": "Orpheus was freed from his prison, and made the sacrifice to become a mindflayer to defeat the Netherbrain. Lae’zel has returned to the Astral Plane to lead the rebellion against Queen Vlaakith."
+                },
+                {
+                    "name": "The Pale Elf",
+                    "summary": "We killed Cazador and released all of the vampire spawn into the Underdark. Astarion’s fate is sealed – he will be a vampire spawn until the end of his days."
+                },
+                {
+                    "name": "The Wizard of Waterdeep",
+                    "summary": "Gale surrendered the Crown of Karsus to Mystra and in return was cured of the orb."
+                },
+                {
+                    "name": "Our Fiery Friend",
+                    "summary": "We helped Karlach get her revenge against Gortash, but her heart is still unstable. Her and Wyll have returned to hells and search for a solution."
+                },
+                {
+                    "name": "The Blade of the Frontiers",
+                    "summary": "With his father’s blessing, Wyll announced himself the blade of Avernus. He is devoted to protecting the Sword Coast from infernal threats by hunting devils, both within the Hells and without."
+                },
+                {
+                    "name": "The High Harper",
+                    "summary": "Minsc has joined our party. (So has Boo.)"
+                }
+            ],
+            "notes": ""
+        },
+        {
+            "name": "Nimiah",
+            "background": "Nimiah was born to poverty in the slums of Daggerford. Her father was sickly and her mother a drunk. At the age of 8, Nimiah's father became beddridden and often mentally absent. Her mother disappeared, leaving Nimiah to fend for her father and herself. At the age of 10, her father passed. Having no one, Nimiah snuck aboard a travelling caravan, aiming to make a better life somewhere else. However, her presence was quickly found out by the hired caravan merc, a stern human monk named Avi. Avi took Nimiah in and raised her on the outskirts of Baldur's Gate, passing along her skills in martial combat and balance. Several decades later, Avi does not return from a journey, and in her investigation, Nimiah find out that Avi was actually a Harper and her latestest mission went wrong, resulting in many harpers missing, assumed dead. Just as Nimiah sets out to find Avi, or just her body, she ends up aboard a nautloid ship.",
+            "romanced": "Wyll",
+            "completed": true,
+            "companions": 
+            [
+                {
+                    "name": "Daughter of Darkness",
+                    "summary": ""
+                },
+                {
+                    "name": "The Githyanki Warrior",
+                    "summary": "Orpheus was freed from his prison. With the Netherbrain defeated, Orpheus and Lae’zel have returned to the Astral Plane to begin the rebellion against Queen Vlaakith."
+                },
+                {
+                    "name": "The Pale Elf",
+                    "summary": "We killed Cazador and all of the vampire spawn. Astarion’s fate is sealed – he will be a vampire spawn until the end of his days."
+                },
+                {
+                    "name": "The Wizard of Waterdeep",
+                    "summary": "Gale surrendered the Crown of Karsus to Mystra and in return was cured of the orb."
+                },
+                {
+                    "name": "Our Fiery Friend",
+                    "summary": "We helped Karlach get her revenge against Gortash, but her heart is still unstable. She made the sacrifice to turn into a mindflayer to defeat the Netherbrain."
+                },
+                {
+                    "name": "The Blade of the Frontiers",
+                    "summary": "With his father’s blessing, Wyll announced himself the blade of Avernus. He is devoted to protecting the Sword Coast from infernal threats by hunting devils, both within the Hells and without."
+                },
+                {
+                    "name": "The High Harper",
+                    "summary": "Minsc has joined our party. (So has Boo.)"
+                }
+            ],
+            "notes": ""
+        }
+    ]
+}

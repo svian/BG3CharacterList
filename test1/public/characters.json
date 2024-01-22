@@ -1,0 +1,60 @@
+{
+    "characters": [
+      {
+        "img": "public/images/aesya.png",
+        "name": "Aesya",
+        "race": "Half-Elf",
+        "class": "Ranger/Bard",
+        "level": 12,
+        "background": "Born of a brief love affair between a druid wood elf and a human trader, Aesya was raised in the harmonious town of Mosstone. Her father, a dedicated druid, had little interested in Aesya and often left her in the care of others. Aesya has a love of music and often was found wherever singing and dancing was occuring. Aesya also developed skills as a hunter, and traded meat and furs to provide for herself. At the age of 23, Aesya left Mosstone for Esmeltaran, where she lived for over 2 decades."
+      },
+      {
+        "img": "public/images/nimiah.png",
+        "name": "Nimiah",
+        "race": "Tiefling",
+        "class": "Monk",
+        "level": 12,
+        "background": "Nimiah was born to poverty in the slums of Daggerford. Her father was sickly and her mother a drunk. At the age of 8, Nimiah's father became beddridden and often mentally absent. Her mother disappeared, leaving Nimiah to fend for her father and herself. At the age of 10, her father passed. Having no one, Nimiah snuck aboard a travelling caravan, aiming to make a better life somewhere else. However, her presence was quickly found out by the hired caravan merc, a stern human monk named Avi. Avi took Nimiah in and raised her on the outskirts of Baldur's Gate, passing along her skills in martial combat and balance. Several decades later, Avi does not return from a journey, and in her investigation, Nimiah find out that Avi was actually a Harper and her latestest mission went wrong, resulting in many harpers missing, assumed dead. Just as Nimiah sets out to find Avi, or just her body, she ends up aboard a nautloid ship."
+      },
+      {
+        "img": "public/images/tav.png",
+        "name": "Tav",
+        "race": "Tiefling",
+        "class": "Ranger",
+        "level": 8,
+        "background": "Tav was born to a pair of servants for a Noble house of Baldur's Gate. For many years they served happily to the family. As they reached their teen years, they grew very close to the young daugther of the noble house, and eventually fell in love. Tav and the daughter would sneak away at night to steal giddy kisses fantasize of a life together. they are eventually caught by the lady of the house, who punishes tav severly. It is only through the pleading of the daughter and Tav's parents that the Lady chooses not to have Tav killed, but instead sent to unpleasent duties away from the family. Tav eventually sneaks away and makes their way south to the town of Beregost, where she is taken in by a hafling couple."
+      },
+      {
+        "img": "public/images/emrys.png",
+        "name": "Emrys",
+        "race": "Tiefling",
+        "class": "Barbarian/Fighter",
+        "level": 7,
+        "background": "REDEEMED DURGE"
+      },
+      {
+        "img": "public/images/maeve.png",
+        "name": "Maeve",
+        "race": "Githyanki",
+        "class": "Monk",
+        "level": 5,
+        "background": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      },
+      {
+        "img": "public/images/andor.png",
+        "name": "Andor",
+        "race": "Half-Elf",
+        "class": "Paladin",
+        "level": 4,
+        "background": "Andor and Alarik were twin, born in the Lower City. Not long after Andor and Alarick, their younger sister Anaea was born. Their family were craftsmen by trade, but Andor had a gift for swordfighting, and Anaea developed a case of sticky fingers. As teens Andor trained to join the Flaming Fists and Alarik was growing more and more accomplished as an inventor/craftsman. Alarik and their father sign a contract to work with an up and coming [word], Enver Gortash. During one of the days of work, Alarik ends up stumbling upon a series of plans and correspondance between Gortash and others of nefarious plans. Alarmed, Alarik attempts to steal the letters, but is caught before he could get away. Alarik and his father are both killed to keep their silence. Their death is claimed as an accident involving failing machinery, but Andor does not believe this and maintains that Gortash is responsible. Andor and Anaea work together to find evidence of Gortash's crimes, but are stolen away aboard a nautiloid."
+      },
+      {
+        "img": "public/images/ehdros.png",
+        "name": "Ehdros",
+        "race": "Dragonborn",
+        "class": "Fighter",
+        "level": 1,
+        "background": "EVIL DURGE"
+      }
+    ]
+  }

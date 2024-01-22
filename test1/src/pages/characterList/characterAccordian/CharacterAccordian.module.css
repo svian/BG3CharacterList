@@ -2,10 +2,16 @@
     height: 100px;
     width: 100px;
     margin: 15px;
+    border-radius: 20px !important;
 }
 
 .bio{
     margin: 15px;
+}
+
+.button {
+    display: flex;
+    justify-content: end;
 }
 
 .page {
@@ -13,6 +19,12 @@
     position: absolute;
     left: 50%;
     margin-left: -500px;
+}
+
+.level{
+    justify-content: flex-end;
+    margin-right: 60px;
+    display: flex;
 }
 
 /* ion-img:hover {
