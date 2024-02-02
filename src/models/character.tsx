@@ -6,17 +6,3 @@ export interface CharacterListData {
   level: number;
   background: string;
 }
-
-export interface PlaythroughDetailsData {
-  name: string;
-  background: string;
-  romanced: string;
-  progress: string;
-  companions: [
-    {
-      name: string;
-      summary: string;
-    }
-  ];
-  notes: string;
-}

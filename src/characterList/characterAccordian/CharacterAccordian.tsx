@@ -1,13 +1,10 @@
 import {
   IonAccordion,
   IonAccordionGroup,
-  IonImg,
   IonItem,
   IonLabel,
-  IonModal,
 } from "@ionic/react";
 import css from "./CharacterAccordian.module.css";
-import TextLink from "../../../components/textLink/TextLink";
 import { CharacterListData } from "../../../models/character";
 interface AccordianProps {
   data: Array<CharacterListData>;
@@ -37,11 +34,6 @@ const CharAccordian: React.FC<AccordianProps> = (props: AccordianProps) => {
             </IonItem>
             <div slot="content" className={css.bio}>
               {char.background}
-              <TextLink
-                className={css.button}
-                label="View Playthrough Details"
-                href={`/playthrough/${char.name}`}
-              />
             </div>
           </IonAccordion>
         );

@@ -20,8 +20,7 @@ import "@ionic/react/css/display.css";
 
 /* Theme variables */
 import "./theme/variables.css";
-import CharacterListPage from "./pages/characterList/CharacterListPage";
-import PlaythroughDetailsPage from "./pages/playthroughDetails/PlaythroughDetailsPage";
+import CharacterListPage from "./characterList/CharacterListPage";
 
 setupIonicReact();
 
@@ -34,9 +33,6 @@ const App: React.FC = () => (
         </Route>
         <Route exact path="/">
           <Redirect to="/characterList" />
-        </Route>
-        <Route exact path="/playthrough/:character">
-          <PlaythroughDetailsPage />
         </Route>
       </IonRouterOutlet>
     </IonReactRouter>
