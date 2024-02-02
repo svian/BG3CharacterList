@@ -5,7 +5,7 @@ import {
   IonLabel,
 } from "@ionic/react";
 import css from "./CharacterAccordian.module.css";
-import { CharacterListData } from "../../../models/character";
+import { CharacterListData } from "../../models/character";
 interface AccordianProps {
   data: Array<CharacterListData>;
   onClick: (img: string) => void;

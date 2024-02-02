@@ -29,17 +29,15 @@
         "name": "Emrys",
         "race": "Tiefling",
         "class": "Barbarian/Fighter",
-        "level": 7,
-        "background": "REDEEMED DURGE"
+        "level": 7
       },
       {
         "img": "public/images/maeve.png",
         "name": "Maeve",
         "race": "Githyanki",
         "class": "Monk",
-        "level": 5,
-        "background": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-      },
+        "level": 5
+            },
       {
         "img": "public/images/andor.png",
         "name": "Andor",
@@ -53,8 +51,7 @@
         "name": "Ehdros",
         "race": "Dragonborn",
         "class": "Fighter",
-        "level": 1,
-        "background": "EVIL DURGE"
+        "level": 1
       }
     ]
   }

@@ -1,8 +1,8 @@
 import axios from "axios";
 import { useEffect, useState } from "react";
 import CharacterAccordian from "./characterAccordian/CharacterAccordian";
-import Page from "../../components/page/Page";
-import { CharacterListData } from "../../models/character";
+import Page from "../components/page/Page";
+import { CharacterListData } from "../models/character";
 import { IonModal, IonImg } from "@ionic/react";
 
 const CharacterListPage: React.FC = () => {
